@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Second year of computer science studies
-- 🤔 I’m looking for help with In my DMX project
 
 <!--
 **evduanG/evduanG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
