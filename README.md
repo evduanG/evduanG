@@ -64,3 +64,40 @@
 
 <br/>
 
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+----
+	
+<div>
+  <p align="center">
+	<a href="https://github.com/evduanG/Web-react-app">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=evduanG&repo=Web-react-app&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/evduanG/DiningCombat">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=evduanG&repo=DiningCombat&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/evduanG/C22-Ex05-Elkayam-Eviatar">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=evduanG&repo=C22-Ex05-Elkayam-Eviatar&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/evduanG/Indicator-based-genetic-trading-algorithm">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=evduanG&repo=Indicator-based-genetic-trading-algorithm&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/evduanG/db-sakila">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=evduanG&repo=db-sakila&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/evduanG/Tracker">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=evduanG&repo=Tracker&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  	<a href="https://github.com/evduanG/Arduino-Red-Light-Green-Light">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=evduanG&repo=Arduino-Red-Light-Green-Light&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/evduanG/post-office-multithread-system">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=evduanG&repo=post-office-multithread-system&theme=tokyonight" alt="GitHub Stats" />
+    	</a>     	
+	
+  </p>
+</div>
+</details>
+
+</br></br>
+
